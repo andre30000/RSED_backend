@@ -1,0 +1,80 @@
+{
+  "articles_json": {
+      "title": "Listing of relevant articles",
+      "subtitle": "for RDES",
+      "content": [
+          {
+              "id": 0,
+              "url": "https://www.nytimes.com/2023/08/12/us/politics/iowa-state-fair-desantis-trump.html",
+              "addlContent": [
+                  {
+                      "date": "2023-08-12",
+                      "author": "Nicholas Nehamas",
+                      "outlet" : "NYT",
+                      "type": "article"
+                  }
+              ]
+          },
+          {
+              "id": 1,
+              "url": "https://thehill.com/homenews/state-watch/4152176-desantis-to-disneys-iger-drop-the-lawsuit/",
+              "addlContent": [
+                  {
+                      "date": "08/14/23",
+                      "author": "MIRANDA NAZZARO",
+                      "outlet" : "The Hill",
+                      "type": "article"
+                  }
+              ]
+          },
+	  {
+              "id": 2,
+              "url": "https://www.politico.com/news/2023/08/14/ron-desantis-gavin-newsom-debate-fox-news-00111001",
+              "addlContent": [
+                  {
+                      "date": "08/14/2023",
+                      "author": "CHRISTOPHER CADELAGO",
+                      "outlet" : "Politico",
+                      "type": "article"
+                  }
+              ]
+          },
+	  {
+              "id": 3,
+              "url": "https://www.motherjones.com/mojo-wire/2023/08/ron-desantis-iowa/",
+              "addlContent": [
+                  {
+                      "date": "AUGUST 13, 2023",
+                      "author": "INAE OH",
+                      "outlet" : "Mother Jones",
+                      "type": "article"
+                  }
+              ]
+          },
+	  {
+              "id": 4,
+              "url": "https://www.usatoday.com/story/news/politics/2023/08/13/ron-desantis-2024-campaign-speech-iowa/70584955007/",
+              "addlContent": [
+                  {
+                      "date": "8/13/23",
+                      "author": "Katie Akin and Chris Higgins",
+                      "outlet" : "USA Today",
+                      "type": "article"
+                  }
+              ]
+          },
+	  {
+              "id": 5,
+              "url": "https://www.rollingstone.com/politics/politics-news/trump-desantis-supporters-screaming-match-iowa-1234806231/",
+              "addlContent": [
+                  {
+                      "date": "AUGUST 13, 2023",
+                      "author": "PETER WADE",
+                      "outlet" : "Rolling Stone",
+                      "type": "article"
+                  }
+              ]
+          }
+    ]
+}
+}
